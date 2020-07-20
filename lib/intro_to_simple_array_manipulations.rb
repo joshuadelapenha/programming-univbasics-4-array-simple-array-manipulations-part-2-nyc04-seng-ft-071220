@@ -19,6 +19,7 @@ def using_delete(array,getridof)
   array.delete(getridof)
 end
 
-def using_delete_at
+def using_delete_at(array,integer_number)
+  array.detele
 end
 
